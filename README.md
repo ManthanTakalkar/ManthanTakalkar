@@ -24,15 +24,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<!-- Machine Learning -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="40" height="40"/>
-</a>
-
-<!-- Deep Learning -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="deep learning" width="40" height="40"/>
-</a>
 
 <!-- NumPy -->
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
@@ -54,6 +45,41 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
+<!-- Machine Learning -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="40" height="40"/>
+</a>
+
+<!-- Deep Learning -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="deep learning" width="40" height="40"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
 <!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
@@ -61,7 +87,12 @@
 
 <!-- Render -->
 <a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.ctfassets.net/gm98wzqotmnx/5m6xkM4Xx0e6n4IcdOx6R5/6a0f7a5f0c6c0e4b8f3a2d8f5d4b7f4d/render-logo.svg" alt="render" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/R/render-logo-1ED3A6BCEC-seeklogo.com.png" alt="render" width="40" height="40"/>
+</a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 </p>
 
