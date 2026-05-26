@@ -51,8 +51,8 @@
 </a>
 
 <!-- Deep Learning -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="deep learning" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637091.png" alt="deep learning" width="40" height="40"/>
 </a>
 
 <!-- Jupyter -->
@@ -87,7 +87,7 @@
 
 <!-- Render -->
 <a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/R/render-logo-1ED3A6BCEC-seeklogo.com.png" alt="render" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354118/render.svg" alt="render" width="40" height="40"/>
 </a>
 
 <!-- VS Code -->
