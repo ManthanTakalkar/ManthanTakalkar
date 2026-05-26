@@ -87,7 +87,7 @@
 
 <!-- Render -->
 <a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/354118/render.svg" alt="render" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
 </a>
 
 <!-- VS Code -->
