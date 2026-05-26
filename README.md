@@ -51,8 +51,8 @@
 </a>
 
 <!-- Deep Learning -->
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637091.png" alt="deep learning" width="40" height="40"/>
+<a href="https://deep-learning-drizzle.github.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="deep learning" width="40" height="40"/>
 </a>
 
 <!-- Jupyter -->
@@ -87,7 +87,7 @@
 
 <!-- Render -->
 <a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/35561100?s=200&v=4" alt="render" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Render_logo.svg" alt="render" width="90" height="40"/>
 </a>
 
 <!-- VS Code -->
