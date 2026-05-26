@@ -87,7 +87,7 @@
 
 <!-- Render -->
 <a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Render_logo.svg" alt="render" width="90" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/35561100?v=4" alt="Render" width="40" height="40"/>
 </a>
 
 <!-- VS Code -->
