@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring ML Enginner focus on Deep Learning and Data Analysis</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+%7C+NLP+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanTakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ManthanTakalkar" /> </p>
@@ -75,6 +75,11 @@
 <!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+<!-- NLP -->
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="nlp" width="40" height="40"/>
 </a>
 
 <!-- FastAPI -->
