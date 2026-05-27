@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **ML and Data Analysis Projects**
 - 🌱 Currently learning **Data Science**
-- 🧠 Exploring **TensorFlow, PyTorch, Scikit-Learn, and Data Visualization**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ManthanTakalkar">Github<a>
-- 💬 Ask me about **Data Science**
+- 🧠 Exploring **Deep Learning (ANNs, RNNs), NLP basics, TensorFlow, PyTorch, Scikit-Learn, and Data Visualization**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ManthanTakalkar">Github</a>
+- 💬 Ask me about **Data Analysis and Machine Learning**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan Resume <a>
 
 ---
