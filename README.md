@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Manthan Takalkar</h1>
 <h3 align="center">Aspiring ML Enginner focus on Deep Learning and Data Analysis</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Open+Source+Lover" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanTakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ManthanTakalkar" /> </p>
 
 ## 🚀 About Me
@@ -97,7 +101,22 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
-
 </p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <h3 align="center">Thank You</h3>
