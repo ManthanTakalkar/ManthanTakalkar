@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring ML Enginner focus on Deep Learning and Data Analysis</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analysy;Deep+Learning+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanTakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ManthanTakalkar" /> </p>
@@ -108,9 +108,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManthanTakalkar&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManthanTakalkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanTakalkar&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManthanTakalkar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
