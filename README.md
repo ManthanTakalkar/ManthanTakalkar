@@ -1,6 +1,6 @@
 [![](https://holopin.me/ManthanTakalakr)](https://holopin.io/@ManthanTakalkar)
 <h1 align="center">Hi 👋, I'm Manthan Takalkar</h1>
-<h3 align="center">Aspiring Machine Learning Engineer/Data Analyst focused on Deep Learning, NLP, and Data Analysis</h3>
+<h3 align="center">Aspiring Data Analyst/ML Engineer focused on Insights, Predictive Analytics, and Deep Learning/NLP </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+%7C+NLP+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
