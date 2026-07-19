@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Analyst/ML Engineer focused on Insights, Predictive Analytics, and Deep Learning/NLP </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+%7C+NLP+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Scikit-Learn+%7C+Deep+Learning;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+%7C+NLP+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;Scikit-Learn+%7C+Deep+Learning;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManthanTakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ManthanTakalkar" /> </p>
@@ -12,10 +12,10 @@
 
 - 🔭 I’m currently working on **ML and Data Analysis Projects**
 - 🌱 Currently learning **Data Science**
-- 🧠 Exploring **Deep Learning (ANNs, RNNs), NLP basics, TensorFlow, PyTorch, Scikit-Learn, and Data Visualization**
+- 🧠 Exploring **End-to-End Data Analysis, Data Visualization, Deep Learning (ANNs, RNNs), NLP, TensorFlow, PyTorch, Scikit-Learn**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ManthanTakalkar">Github</a>
 - 💬 Ask me about **Data Analysis and Machine Learning**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan Resume <a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan Resume </a>
 
 ---
 
@@ -42,6 +42,16 @@
 <!-- Pandas -->
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<!-- Excel -->
+<a href="https://microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://githubusercontent.com" alt="excel" width="40" height="40"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://strikinglycdn.com" alt="powerbi" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
@@ -125,7 +135,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ManthanTakalkar&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ManthanTakalkar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
