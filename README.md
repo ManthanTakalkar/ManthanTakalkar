@@ -46,12 +46,18 @@
 
 <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://iconify.design" alt="powerbi" width="40" height="40"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 32 32">
+    <path fill="#f2c24e" d="M16 2h5v28h-5z"/>
+    <path fill="#e6a820" d="M22 9h5v21h-5z"/>
+    <path fill="#f8e08b" d="M10 16h5v14h-5z"/>
+  </svg>
 </a>
 
 <!-- Excel -->
 <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://iconify.design" alt="excel" width="40" height="40"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24">
+    <path fill="#107c41" d="M0 0v24h24V0H0zm12.5 17l-2.5-3.5-2.5 3.5H6l4-5.5-4-5.5h2l2.5 3.5 2.5-3.5h2l-4 5.5 4 5.5h-2z"/>
+  </svg>
 </a>
 
 <!-- Matplotlib -->
