@@ -46,18 +46,12 @@
 
 <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 32 32">
-    <path fill="#f2c24e" d="M16 2h5v28h-5z"/>
-    <path fill="#e6a820" d="M22 9h5v21h-5z"/>
-    <path fill="#f8e08b" d="M10 16h5v14h-5z"/>
-  </svg>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 
-<!-- Excel -->
-<a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24">
-    <path fill="#107c41" d="M0 0v24h24V0H0zm12.5 17l-2.5-3.5-2.5 3.5H6l4-5.5-4-5.5h2l2.5 3.5 2.5-3.5h2l-4 5.5 4 5.5h-2z"/>
-  </svg>
+<!-- Microsoft Excel -->
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
