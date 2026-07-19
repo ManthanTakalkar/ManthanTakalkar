@@ -46,12 +46,12 @@
 
 <!-- Excel -->
 <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://githubusercontent.com" alt="excel" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="excel" width="40" height="40"/>
 </a>
 
 <!-- Power BI -->
-<a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://strikinglycdn.com" alt="powerbi" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://jsdelivr.net" alt="powerbi" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
