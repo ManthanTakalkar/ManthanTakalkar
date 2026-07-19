@@ -35,87 +35,87 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 <!-- NumPy -->
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
 
 <!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
 
 <!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 
 <!-- Microsoft Excel -->
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Microsoft Excel" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
 </a>
 
 <!-- Seaborn -->
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
 <!-- Machine Learning -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="40" height="40"/>
 </a>
 
 <!-- Deep Learning -->
-<a href="https://deep-learning-drizzle.github.io/" target="_blank" rel="noreferrer">
+<a href="https://deep-learning-drizzle.github.io/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="deep learning" width="40" height="40"/>
 </a>
 
 <!-- Keras -->
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
+<a href="https://keras.io/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
 </a>
 
 <!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
 <!-- PyTorch -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </a>
 
 <!-- NLP -->
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="nlp" width="40" height="40"/>
 </a>
 
 <!-- FastAPI -->
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
 </a>
 
 <!-- Render -->
-<a href="https://render.com/" target="_blank" rel="noreferrer">
+<a href="https://render.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://avatars.githubusercontent.com/u/35561100?v=4" alt="Render" width="40" height="40"/>
 </a>
 
 <!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </a>
 
 <!-- VS Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 
 <!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 12px;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
 </p>
