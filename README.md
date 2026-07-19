@@ -44,14 +44,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
 
-<!-- Power BI --> 
-<a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://githubusercontent.com" alt="powerbi" width="40" height="40"/> 
-</a> 
+<!-- Power BI -->
+<a href="https://microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://githubusercontent.com" alt="powerbi" width="40" height="40"/>
+</a>
 
-<!-- Excel --> 
-<a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://githubusercontent.com" alt="excel" width="40" height="40" style="filter: hue-rotate(240deg) saturate(3) brightness(0.6);"/> 
+<!-- Excel -->
+<a href="https://microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://wikimedia.org" alt="excel" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
