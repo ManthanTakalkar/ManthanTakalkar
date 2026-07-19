@@ -51,7 +51,7 @@
 
 <!-- Microsoft Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Microsoft Excel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Microsoft Excel" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
