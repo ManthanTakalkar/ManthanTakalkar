@@ -45,13 +45,13 @@
 </a>
 
 <!-- Power BI -->
-<a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://githubusercontent.com" alt="powerbi" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://iconify.design" alt="powerbi" width="40" height="40"/>
 </a>
 
 <!-- Excel -->
 <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://wikimedia.org" alt="excel" width="40" height="40"/>
+  <img src="https://iconify.design" alt="excel" width="40" height="40"/>
 </a>
 
 <!-- Matplotlib -->
