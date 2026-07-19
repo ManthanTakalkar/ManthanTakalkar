@@ -46,12 +46,12 @@
 
 <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIj48cGF0aCBmaWxsPSIjRjJDMjRFIiBkPSJNMTYgMmg1djI4aC01eiIvPjxwYXRoZmlsbD0iI0U2QTgyMCIgZD0iTTIyIDloNXYyMWgtNXoiLz48cGF0aCBmaWxsPSIjRjhFMDhCIiBkPSJNOSAxNmYxNGg1VjE2eiIvPjwvc3ZnPg==" alt="powerbi" width="40" height="40"/>
+  <img src="https://shields.io" alt="powerbi" height="40"/>
 </a>
 
 <!-- Excel -->
 <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIj48cGF0aCBmaWxsPSIjMTA3QzQxIiBkPSJNMCAwdjI0aDI0VjBIMHptMTIuNSAxN2wtMi41LTMuNS0yLjUgMy41SDZsNC01LjUtNC01LjVoMiwyLjUgMy41IDIuNS0zLjVoMmwtNCw1LjUsNCw1LjVoLTJ6Ii8+PC9zdmc+" alt="excel" width="40" height="40"/>
+  <img src="https://shields.io" alt="excel" height="40"/>
 </a>
 
 <!-- Matplotlib -->
