@@ -22,7 +22,6 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <!-- LinkedIN -->
   <a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" />
   </a>
