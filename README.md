@@ -22,7 +22,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=takalkarmanthan06@gmail.com&su=Hello%20Manthan&body=Hi%20Manthan"target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
