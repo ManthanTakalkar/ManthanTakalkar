@@ -22,14 +22,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<!-- LinkedIN -->
-<a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" />
-</a>
-<!-- Gmail -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=takalkarmanthan06@gmail.com&su=Hello%20Manthan&body=Hi%20Manthan"target="_blank">
-  <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png" alt="Gmail" height="30" width="70" />
-</a>
+  <!-- LinkedIN -->
+  <a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=takalkarmanthan06@gmail.com&su=Hello%20Manthan&body=Hi%20Manthan"target="_blank">
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png" alt="Gmail" height="30" width="70" />
+  </a>
 </p>
 
 ---
