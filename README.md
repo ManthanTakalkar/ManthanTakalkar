@@ -21,13 +21,22 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan-takalkar" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=takalkarmanthan06@gmail.com&su=Hello%20Manthan&body=Hi%20Manthan" target="_blank">
     <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png" alt="Gmail" height="40" width="70" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthan-takalkar-62969a213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=takalkarmanthan06@gmail.com&su=Hello%20Manthan&body=Hi%20Manthan">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
