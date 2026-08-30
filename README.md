@@ -42,7 +42,7 @@
 
 ---
 
-## 👨‍💻🤖📊 Languages and Tools
+## 👨‍💻🤖📊 My Tech Stack
 
 <p align="left"> 
   <!-- Python -->
@@ -77,7 +77,7 @@
 
 <!-- SQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" width="50" height="40"/>
 </a>
 
 <!-- Power BI -->
