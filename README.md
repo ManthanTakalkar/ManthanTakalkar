@@ -12,8 +12,11 @@
 
 🎓 **Education:** B.E. in Information Technology 
 
-* ✅ **Power BI-** Transforming Complex Data into Intelligent Solutions & Business Insights  
-* ✅ **SQL-** Complex query optimization & schema design 
+* ✅ **Data Cleaning & Preprocessing–** Transforming messy, unstructured raw datasets into clean, reliable, and analysis-ready structures.
+* ✅ Python & Advanced Analytics – Using Pandas and NumPy to automate repetitive reporting, handle heavy file conversions, and conduct exploratory data analysis (EDA).
+* ✅ **Power BI-** Transforming Complex Data into interactive dashboards that track key business metrics, KPIs & business insights  
+* ✅ **SQL-** Complex query optimization, schema design & performance tuning
+* ✅ **Excel–** Advanced data modeling, dynamic formulas, macro automation, and quick-turnaround data auditing
 * ✅ **Machine Learning Engineering-** End-to-end model training, evaluation, & pipeline deployment  
 * ✅ **App Deployment-** Cloud deployment of AI applications
 * ✅ **Deep Learning & NLP-** Training neural networks, sequence modeling, and advanced text processing  
