@@ -12,6 +12,8 @@
 
 🎓 **Education:** B.E. in Information Technology 
 
+### 📈 What I Do
+
 * ✅ **Data Cleaning & Preprocessing–** Transforming messy, unstructured raw datasets into clean, reliable, and analysis-ready structures.
 * ✅ Python & Advanced Analytics – Using Pandas and NumPy to automate repetitive reporting, handle heavy file conversions, and conduct exploratory data analysis (EDA).
 * ✅ **Power BI-** Transforming Complex Data into interactive dashboards that track key business metrics, KPIs & business insights  
