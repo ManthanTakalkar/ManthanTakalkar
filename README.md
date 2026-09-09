@@ -12,11 +12,11 @@
 
 🎓 **Education:** B.E. in Information Technology 
 
-✅ **Power BI-** Transforming Complex Data into Intelligent Solutions & Business Insights  
-✅ **SQL-** Complex query optimization & schema design 
-✅ **Machine Learning Engineering-** End-to-end model training, evaluation, & pipeline deployment  
-✅ **App Deployment-** Cloud deployment of AI applications
-✅ **Deep Learning & NLP-** Training neural networks, sequence modeling, and advanced text processing  
+* ✅ **Power BI-** Transforming Complex Data into Intelligent Solutions & Business Insights  
+* ✅ **SQL-** Complex query optimization & schema design 
+* ✅ **Machine Learning Engineering-** End-to-end model training, evaluation, & pipeline deployment  
+* ✅ **App Deployment-** Cloud deployment of AI applications
+* ✅ **Deep Learning & NLP-** Training neural networks, sequence modeling, and advanced text processing  
 
 - 🔭 I’m currently working on **ML and Data Analysis projects**
 - 🌱 I’m ucrrently learning **Data Science**
