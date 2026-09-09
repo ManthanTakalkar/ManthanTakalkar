@@ -46,134 +46,30 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- <p align="left"> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Excel](https://shields.io)
+![Keras](https://shields.io)
+![FastAPI](https://shields.io)
+![Render](https://shields.io)
+![VS Code](https://shields.io)
+![NLP](https://shields.io)
+![Deep Learning](https://shields.io)
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<!-- NumPy -->
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<!-- SQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" width="50" height="40"/>
-</a>
-
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
-<!-- Microsoft Excel -->
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Microsoft Excel" width="40" height="40"/>
-</a>
-
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-<!-- Seaborn -->
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-
-<!-- Machine Learning -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="40" height="40"/>
-</a>
-
-<!-- Deep Learning -->
-<a href="https://deep-learning-drizzle.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="deep learning" width="40" height="40"/>
-</a>
-
-<!-- Keras -->
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-</a>
-
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-
-<!-- PyTorch -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<!-- NLP -->
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="nlp" width="40" height="40"/>
-</a>
-
-<!-- FastAPI -->
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-</a>
-
-<!-- Render -->
-<a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/35561100?v=4" alt="Render" width="40" height="40"/>
-</a>
-
-<!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</a>
-
-<!-- VS Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-</p> -->
 
 ---
 
