@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=WELCOME%20👨‍💻&fontSize=50&fontColor=fff&animation=fadeIn)
 [![@ManthanTakalkar's Holopin board](https://holopin.io)](https://holopin.io)
 <h1 align="center">Hi 👋, I'm Manthan Takalkar</h1>
 <h3 align="center">Aspiring Data Analyst/ML Engineer focused on Insights, Predictive Analytics, and Deep Learning/NLP </h3>
