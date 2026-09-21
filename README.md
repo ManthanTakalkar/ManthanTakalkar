@@ -15,20 +15,20 @@
 
 ### 📈 What I Do
 
-* ✅ **Data Cleaning & Preprocessing–** Transforming messy, unstructured raw datasets into clean, reliable, and analysis-ready structures.
-* ✅ **Python & Advanced Analytics–** Using Pandas and NumPy to automate repetitive reporting, handle heavy file conversions, and conduct exploratory data analysis (EDA).
-* ✅ **Power BI-** Transforming Complex Data into interactive dashboards that track key business metrics, KPIs & business insights  
-* ✅ **SQL-** Complex query optimization, schema design & performance tuning
-* ✅ **Excel–** Advanced data modeling, dynamic formulas, macro automation, and quick-turnaround data auditing
-* ✅ **Machine Learning Engineering-** End-to-end model training, evaluation, & pipeline deployment  
-* ✅ **App Deployment-** Cloud deployment of AI applications
-* ✅ **Deep Learning & NLP-** Training neural networks, sequence modeling, and advanced text processing  
+* ✅ **Data Cleaning & Preprocessing –** Transforming messy, unstructured raw datasets into clean, reliable, and analysis-ready structures.
+* ✅ **Python & Advanced Analytics –** Using Pandas and NumPy to automate repetitive reporting, handle heavy file conversions, and conduct exploratory data analysis (EDA).
+* ✅ **Power BI –** Transforming complex data into interactive dashboards that track key business metrics, KPIs & business insights. 
+* ✅ **SQL –** Complex query optimization, schema design & performance tuning.
+* ✅ **Excel –** Advanced data modeling, dynamic formulas, macro automation, and quick-turnaround data auditing.
+* ✅ **Machine Learning Engineering –** End-to-end model training, evaluation, & pipeline deployment. 
+* ✅ **App Deployment –** Cloud deployment of AI applications.
+* ✅ **Deep Learning & NLP –** Training neural networks, sequence modeling, and advanced text processing. 
 
-- 🔭 I’m currently working on **ML and Data Analysis projects**
-- 🌱 I’m ucrrently learning **Data Science**
-- 🧠 Exploring **End-to-End Data Analysis, Data Visualization, Deep Learning (ANNs, RNNs), NLP, TensorFlow, PyTorch, Scikit-Learn**
+- 🔭 I’m currently working on **ML and Data Analysis projects.**
+- 🌱 I’m currently learning **Data Science.**
+- 🧠 Exploring **End-to-End Data Analysis, Data Visualization, Deep Learning (ANNs, RNNs), NLP, TensorFlow, PyTorch, Scikit-Learn.**
 - 👨‍💻 All of my projects are available on <a href="https://github.com/ManthanTakalkar">GitHub</a>
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 💬 Ask me about **Data Analysis and Machine Learning.**
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan's Resume </a>
 
 ---
