@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=WELCOME%20👨‍💻&fontSize=50&fontColor=fff&animation=fadeIn)
 <img width="2064" height="512" alt="Banner" src="https://github.com/user-attachments/assets/211d7fbc-44cd-4297-a7db-cd092df4bc12" />
 <h1 align="center">Hi 👋, I'm Manthan Takalkar</h1>
-<h3 align="center">Aspiring Data Analyst/ML Engineer focused on Insights, Predictive Analytics, and Deep Learning/NLP </h3>
+<h3 align="center">Aspiring Data Analyst/ML Engineer | Focused on Insights, Predictive Analytics, and Deep Learning/NLP </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Deep+Learning+%7C+NLP+Explorer;Python+%7C+SQL+%7C+PostgreSQL;Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+EDA;Matplotlib+%7C+Seaborn;Scikit-Learn+%7C+Deep+Learning;FastAPI+%7C+Git+%7C+Render;Building+AI+Powered+Applications" />
