@@ -29,7 +29,7 @@
 - 🧠 Exploring **End-to-End Data Analysis, Data Visualization, Deep Learning (ANNs, RNNs), NLP, TensorFlow, PyTorch, Scikit-Learn.**
 - 👨‍💻 All of my projects are available on <a href="https://github.com/ManthanTakalkar">GitHub</a>
 - 💬 Ask me about **Data Analysis and Machine Learning.**
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan's Resume </a>
+- 📄 View my experience: <a href="https://drive.google.com/file/d/1xmLIQA_VhyJeh2kbHTmkUYQzMapxH-OX/view?usp=sharing" target="blank"> Manthan's Resume </a>
 
 ---
 
